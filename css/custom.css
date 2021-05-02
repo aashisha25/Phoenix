@@ -1,0 +1,9 @@
+/* nav css start here */
+nav {min-height:100px!important;background:#20b2aa!important;border:none!important;-webkit-box-shadow: 0 0 50px 0px rgba(0, 0, 0, 0.4);
+box-shadow: 0 0 50px 0px rgba(0, 0, 0, 0.4);}
+nav .container{padding-top:15px!important;}
+nav #navbar {border:none!important;}
+nav a{font-weight:bold;}
+.active a{background-color:#33b780!important;color:black!important;}
+.icon-bar {background-color:#20b2aa!important;}
+/* nav css ends here*/
